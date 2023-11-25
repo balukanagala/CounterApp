@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+h1,h2{
+    font-family: 'Audiowide', sans-serif;
+    /*If commented then font style is somewhat stylish
+    /*font-family: 'Caveat', cursive;
+    font-family: 'Jost', sans-serif;*/
+    text-shadow: 1px 1px 5px blue ; 
+}
+button{
+    border:1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    /* margin-left: 150px;
+    margin-right: 250px; */
+    background-color: grey;
+}

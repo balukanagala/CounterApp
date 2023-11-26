@@ -11,12 +11,17 @@ h1,h2{
     font-family: 'Jost', sans-serif;*/
     text-shadow: 1px 1px 5px blue ; 
 }
+.Counter{
+    margin: auto;
+    width: 350px;
+    border-radius: 10px;
+    background-color: rgba(147, 232, 222, 0.579);
+    border: 1px dashed black;
+}
 button{
     border:1px solid black;
     border-radius: 5px;
     padding: 10px;
     box-sizing: border-box;
-    /* margin-left: 150px;
-    margin-right: 250px; */
     background-color: grey;
 }
